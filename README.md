@@ -1,5 +1,5 @@
 # Hours-Tracker
-A java GUI interface that allows you to enter hours spent working each day and a log of what happened that day. A running count of the hours that week is tracked and past logs can be viewed. Everything is saved in outputted files, this is an older project if I were to remake this I would definitely consider either using a database or a JSON object.
+A java GUI interface that allows you to enter hours spent working each day and a log of what happened that day. A running count of the hours that week is tracked and past logs can be viewed. Everything is saved in outputted files, this is an older project if I were to remake this I would definitely consider either using a database or a JSON object. This project is also customized for Trend Moving and Storgae, but changes could be made to work for any company!
 
 How to run:
 1. clone/download the repository
